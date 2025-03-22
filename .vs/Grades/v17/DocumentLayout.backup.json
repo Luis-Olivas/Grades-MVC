@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lalo_\\source\\repos\\Grades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\views\\home\\modificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\views\\home\\modificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\views\\home\\subjectmuestra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\views\\home\\subjectmuestra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\data\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\data\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|c:\\users\\lalo_\\source\\repos\\grades\\grades\\views\\home\\versubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5235214D-C9D2-480F-A111-7199288E7277}|Grades\\Grades.csproj|solutionrelative:grades\\views\\home\\versubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\appsettings.json",
+              "RelativeDocumentMoniker": "Grades\\appsettings.json",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\appsettings.json",
+              "RelativeToolTip": "Grades\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T20:21:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Grades\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Grades\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T20:19:26.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Grades\\Views\\Home\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\Eliminar.cshtml",
+              "RelativeToolTip": "Grades\\Views\\Home\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:55:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modificar.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\Modificar.cshtml",
+              "RelativeDocumentMoniker": "Grades\\Views\\Home\\Modificar.cshtml",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\Modificar.cshtml",
+              "RelativeToolTip": "Grades\\Views\\Home\\Modificar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:55:08.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Grades\\Views\\Home\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\Crear.cshtml",
+              "RelativeToolTip": "Grades\\Views\\Home\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:54:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectMuestra.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\SubjectMuestra.cshtml",
+              "RelativeDocumentMoniker": "Grades\\Views\\Home\\SubjectMuestra.cshtml",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\SubjectMuestra.cshtml",
+              "RelativeToolTip": "Grades\\Views\\Home\\SubjectMuestra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:49:59.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerSubjects.cshtml",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\VerSubjects.cshtml",
+              "RelativeDocumentMoniker": "Grades\\Views\\Home\\VerSubjects.cshtml",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Views\\Home\\VerSubjects.cshtml",
+              "RelativeToolTip": "Grades\\Views\\Home\\VerSubjects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:39:10.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MySQLDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Data\\MySQLDbContext.cs",
+              "RelativeDocumentMoniker": "Grades\\Data\\MySQLDbContext.cs",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Data\\MySQLDbContext.cs",
+              "RelativeToolTip": "Grades\\Data\\MySQLDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:33:53.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Grades\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Grades\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:30:15.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Grades\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\lalo_\\source\\repos\\Grades\\Grades\\Models\\Subject.cs",
+              "RelativeToolTip": "Grades\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:02:17.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

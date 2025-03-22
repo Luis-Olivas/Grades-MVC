@@ -1,0 +1,16 @@
+﻿@model List<Subject>
+
+@foreach (var grade in @Model)
+{
+    <h2>Detalles del Producto</h2>
+    <p><strong>ID: </strong>@grade.Id</p>
+    <p><strong>Name: </strong>@grade.Name</p>
+    //modificar item
+    <a href="@Url.Action("Modificar", "Home", new { id = grade.Id })">Modificar</a>
+    <br />
+    //eliminar item
+    <a href="@Url.Action("Eliminar", "Home", new { id = grade.Id })">Eliminar</a>
+    <br />
+}
+
+<a href="@Url.Action("Index", "Home")">Volver al inicio</a>

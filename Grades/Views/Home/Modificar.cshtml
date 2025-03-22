@@ -1,0 +1,11 @@
+﻿@model Subject
+
+<form method="POST" action="Crear">
+    <label>ID:</label>
+    <input asp-for="Id" readonly/>
+    <span asp-validation-for="Id" style="color: red"></span><br />
+    <label>Nombre:</label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name" style="color: red"></span><br />
+    <button type="submit">Enviar</button>
+</form>
